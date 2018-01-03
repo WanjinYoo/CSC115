@@ -1,0 +1,17 @@
+trainDataFile = 'traindata.txt'
+trainLabelFile = 'trainlabels.txt'
+Testing is done on the same file
+
+Success Rate: 96.583851
+
+-----------------------------------------
+
+trainDataFile = 'traindata.txt'
+trainLabelFile = 'trainlabels.txt'
+testDataFile = 'testdata.txt'
+testLabelFile = 'testlabels.txt'
+
+Success Rate: 78.217822
+
+-----------------------------------------
+Note: Change testFileProvided to True / False to test both cases

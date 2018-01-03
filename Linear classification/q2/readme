@@ -1,0 +1,13 @@
+For question 2,
+
+a)
+We initially practiced on double variable data
+the results can be obtained by running the sec.py and opening the test.html file
+
+b) 
+
+First.1py will take values from regdata.
+It will first print scaled values for GPA and years of experience.(X^0 = 1, x^1 = GPA, x^2 = Years of experience, Y = salary)
+Next array that gets printed is sum of errors for each vector. As you can see, my values are decreasing, is illustrated in error.html.
+The next line is final vector of w and the total number of iterations to find my final w
+Gamma = 1 showed me the best learningRate based on error curv
